@@ -1,0 +1,18 @@
+﻿<Window x:Class="opisPozycji.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:opisPozycji"
+        mc:Ignorable="d"
+        
+        Title="Wtyczka do programu ILUO Biznes" Height="600" Width="920">
+    <Grid OpacityMask="Black" Background="#FFE5E5EA">
+        <Label x:Name="labProgram" Content="Znajdź dokumenty handlowe z podanym niżej opisem pozycji" HorizontalAlignment="Left" Margin="45,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.079,-0.5" FontSize="16" BorderBrush="#FFD4CFCF"/>
+        <Label x:Name="labWprowadz" Content="Wprowadź poszukiwany opis pozycji:" HorizontalAlignment="Left" Margin="45,74,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="tbOpis" HorizontalAlignment="Left" Height="23" Margin="265,77,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="183"/>
+        <Button x:Name="butEnter" Content="Enter" HorizontalAlignment="Left" Margin="493,80,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="-2,0.5" Click="butEnter_Click"/>
+        <DataGrid x:Name="dgWynik" ItemsSource="{Binding}" HorizontalAlignment="Left" Margin="45,137,0,0" VerticalAlignment="Top" MinHeight="100" MinWidth="800"/>
+
+    </Grid>
+</Window>

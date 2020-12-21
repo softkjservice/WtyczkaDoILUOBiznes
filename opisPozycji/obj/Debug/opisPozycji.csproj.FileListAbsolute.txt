@@ -1,0 +1,14 @@
+c:\users\softkj\documents\visual studio 2015\Projects\opisPozycji\opisPozycji\bin\Debug\opisPozycji.exe.config
+c:\users\softkj\documents\visual studio 2015\Projects\opisPozycji\opisPozycji\bin\Debug\opisPozycji.exe
+c:\users\softkj\documents\visual studio 2015\Projects\opisPozycji\opisPozycji\bin\Debug\opisPozycji.pdb
+c:\users\softkj\documents\visual studio 2015\Projects\opisPozycji\opisPozycji\obj\Debug\opisPozycji.csprojResolveAssemblyReference.cache
+c:\users\softkj\documents\visual studio 2015\Projects\opisPozycji\opisPozycji\obj\Debug\MainWindow.g.cs
+c:\users\softkj\documents\visual studio 2015\Projects\opisPozycji\opisPozycji\obj\Debug\App.g.cs
+c:\users\softkj\documents\visual studio 2015\Projects\opisPozycji\opisPozycji\obj\Debug\opisPozycji_MarkupCompile.cache
+c:\users\softkj\documents\visual studio 2015\Projects\opisPozycji\opisPozycji\obj\Debug\opisPozycji_MarkupCompile.lref
+c:\users\softkj\documents\visual studio 2015\Projects\opisPozycji\opisPozycji\obj\Debug\MainWindow.baml
+c:\users\softkj\documents\visual studio 2015\Projects\opisPozycji\opisPozycji\obj\Debug\opisPozycji.g.resources
+c:\users\softkj\documents\visual studio 2015\Projects\opisPozycji\opisPozycji\obj\Debug\opisPozycji.Properties.Resources.resources
+c:\users\softkj\documents\visual studio 2015\Projects\opisPozycji\opisPozycji\obj\Debug\opisPozycji.csproj.GenerateResource.Cache
+c:\users\softkj\documents\visual studio 2015\Projects\opisPozycji\opisPozycji\obj\Debug\opisPozycji.exe
+c:\users\softkj\documents\visual studio 2015\Projects\opisPozycji\opisPozycji\obj\Debug\opisPozycji.pdb
